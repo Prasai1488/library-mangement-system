@@ -21,6 +21,7 @@ class Program
 
         // Register members
         var member1 = new Member("Prithvi", 09);
+        var member2 = new Member("Hari Thapa", 02);
         library.RegisterMember(member1 );
 
         //display library info
